@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Lawn Mower",
+    "stock": 2,
+    "price": 250,
+    "imgPath": "lawnMower.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Garden Tool Set",
+    "stock": 7,
+    "price": 25,
+    "imgPath": "gardenToolSet.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ladder",
+    "stock": 4,
+    "price": 40,
+    "imgPath": "ladder.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Seeds",
+    "stock": 1,
+    "price": 10,
+    "imgPath": "seeds.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Plants",
+    "stock": 3,
+    "price": 12,
+    "imgPath": "plants.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shovel",
+    "stock": 8,
+    "price": 25,
+    "imgPath": "shovel.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Plant pot",
+    "stock": 8,
+    "price": 15,
+    "imgPath": "plantPot.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gloves",
+    "stock": 8,
+    "price": 10,
+    "imgPath": "gloves.jpg"
+  }
+]
